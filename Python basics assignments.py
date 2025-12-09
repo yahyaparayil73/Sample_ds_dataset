@@ -1,11 +1,8 @@
 #Student Management System
 
-#This is a sample assignment by me 
-
 
 from datetime import datetime as dtm
 FILE = "std_mgmt_data.txt"
-students = []
 std_id = 1
 
 
